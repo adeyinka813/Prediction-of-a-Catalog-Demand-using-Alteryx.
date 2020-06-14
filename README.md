@@ -6,7 +6,7 @@ Author: Adeyinka Abigail Aremo.
 
 Description: Using Alteryx to create a regression model to determine the expected profit to be gained from distributing a product catalogue to 250 new customers
 
-Files used:
+Files Uploaded:
 Alteryx file included.
-A summary of Linear regression model included.
+A summary of Linear regression model findings.
 
